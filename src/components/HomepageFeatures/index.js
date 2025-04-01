@@ -34,16 +34,6 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Encryption as a Service',
-    // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  },
-  {
     title: 'Data Protection',
     // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
