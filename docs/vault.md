@@ -18,6 +18,7 @@ HashiCorp Vault is a powerful secrets management and encryption service that hel
 - **Token Management**: Manage access tokens and authentication
 - **Audit Logging**: Track all access to secrets
 - **Policy-based Access Control**: Fine-grained access control
+- **Faq Section**
 
 ## Getting Started
 
